@@ -1,0 +1,533 @@
+
+.main{
+    margin-left: 220px;
+}
+
+.hero{
+    width: 1152px;
+    height: auto;
+    position: relative;
+    display: inline-block;
+}
+
+.hero .hero_1 .logo {
+    position: absolute;
+left: 52px;
+top: 37px;
+}
+
+.hero .hero_1 .links a{
+    text-decoration: none;
+    color: black;
+}
+
+.hero .hero_1 .links .home{
+position: absolute;
+left: 473.46px;
+top: 51px;
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.14em;
+color: #000000;
+}
+
+.hero .hero_1 .links .features{
+position: absolute;
+left: 547.46px;
+top: 51px;
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.14em;
+color: #000000;
+}
+
+.hero .hero_1 .links .support{
+position: absolute;
+left: 647.46px;
+top: 51px;
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.14em;
+color: #000000;
+}
+
+.hero .hero_1 .links .contact-us{
+position: absolute;
+left: 742.46px;
+top: 51px;
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.14em;
+color: #000000;
+}
+
+.hero .hero_1 .button a{
+position: absolute;
+/* width: 130px;
+height: 40px; */
+left: 979px;
+top: 37px;
+background: #4285F4;
+border-radius: 5px;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.14em;
+color: #FCFDFE;
+color: white;
+text-decoration: none;
+padding: 12px 29px 16px 31px;
+}
+
+.hero::after{
+    position: absolute;
+content: '';
+width: 295.29px;
+height: 700px;
+left: 856.71px;
+top: 0px;
+background: #EC5863;
+border-radius: 30px 0px 0px 30px;
+display: block;
+margin-left: auto;
+z-index: -1;
+}
+
+
+.hero .hero_2 {
+    width: 100%;
+    display: inline-block;
+    position: absolute;
+}
+
+.hero .hero_2 .header_01 h1{
+position: absolute;
+width: 497px;
+height: 108px;
+left: 5px;
+top: 16px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 126%;
+/* or 55px */
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+margin-top: 240px;
+margin-left: 66px;
+
+}
+
+.hero .hero_2 .header_01 p{
+    position: absolute;
+    width: 375px;
+    height: 36px;
+    left: 5px;
+    top: 136px;
+    
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 138.5%;
+    /* or 17px */
+    
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    margin-top: 240px;
+    margin-left: 66px;
+    color: #616161;
+}
+
+.hero .hero_2 .header_01 a{
+position: absolute;
+background: #EC5863;
+border-radius: 5px;
+text-decoration: none;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+letter-spacing: 0.14em;
+color: #FCFDFE;
+padding: 14px 28.38px 14px 29px;
+margin-top: 410px;
+margin-left: 66px;
+
+}
+
+.hero .hero_2 .img-01{
+position: absolute;
+display: inline-block;   
+z-index: 2;
+margin: 153px 52.57px 152.58px 552.43px; 
+}
+
+.hero .hero_2 .icon-01 img{
+position: absolute;
+width: 44px;
+height: 44px;
+left: 70px;
+top: 608px;
+}
+
+.hero .hero_2 .icon-01 p{
+    position: absolute;
+width: 172px;
+height: 32px;
+left: 126px;
+top: 614px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 126%;
+/* or 16px */
+
+letter-spacing: 0.08em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+
+color: #B0B0B0;
+}
+
+.hero .hero_2 .icon-01 p .letter-01{
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 9px;
+line-height: 126%;
+/* or 11px */
+letter-spacing: 0.165em;
+text-transform: uppercase;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #000000;
+}
+
+.hero .hero_3 .img-02{
+position: absolute;
+width: 338px;
+height: 542px;
+left: 100px;
+top: 779px;
+}
+
+.hero .hero_3 .header_02 h1{
+    position: absolute;
+    width: 379px;
+    height: 108px;
+    left: 587px;
+    top: 931px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 126%;
+    /* or 55px */
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #000000;
+}
+
+.hero .hero_3 .header_02 .header-02-color{
+    color: #EC5863;
+}
+
+
+.hero .hero_3 .header_02 p{
+    position: absolute;
+    width: 363px;
+    height: 54px;
+    left: 587px;
+    top: 1051px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 138.5%;
+    /* or 17px */
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #616161;
+    margin-top: 22px;
+    
+}
+
+.hero .hero_3 .header_02 a{
+position: absolute;
+width: 144px;
+height: 40px;
+left: 587px;
+top: 1129px;        
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.14em;
+text-transform: uppercase;
+color: #FCFDFE;
+background: rgba(236, 88, 99, 1);
+border-radius: 5px;
+padding: 14px 28.38px 14px 29px;
+text-decoration: none;
+margin-top: 24px;
+}
+
+.hero .hero_04 .img-04{
+position: absolute;
+width: 760.89px;
+height: 200.74px;
+left: 218px;
+top: 1453px;
+z-index: -1;
+}
+
+.hero .hero_04 .text_04{
+    display: inline-block;
+    position: absolute;
+    left: 249px;
+    top: 1503.93px;
+    z-index: 2;
+}
+
+.hero .hero_04 .header_03 h1{
+    position: absolute;
+    width: 393px;
+    height: 53px;
+    left: 92px;
+    top: 1751px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 44px;
+    line-height: 126%;
+    /* or 55px */
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    color: #000000;
+}
+
+.hero .hero_04 .header_03 .header-03-color{
+    color: #4285F4;
+}
+ 
+.hero .hero_04 .header_03 p{
+position: absolute;
+width: 363px;
+height: 52px;
+left: 92px;
+top: 1816.07px;
+font-family: Rubik;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 138.5%;
+/* or 17px */
+letter-spacing: 0.08em;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: #616161;
+margin-top: 22.07px;
+
+}
+
+.hero .hero_04 .header_03 a{
+left: 92px;
+top: 1892.07px;
+position: absolute;
+font-family: Raleway;
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+letter-spacing: 0.14em;
+color: #FCFDFE;
+background: #EC5863;
+border-radius: 5px;
+text-decoration: none;
+padding: 14px 28.38px 14px 29px;
+margin-top: 34px;
+}
+
+.hero .hero_04 .img-05{
+position: absolute;
+left: 559.83px;
+top: 1700px;
+
+}
+
+.hero .hero_05 .header_04 h1{
+position: absolute;
+width: 769px;
+height: 55px;
+left: 192px;
+top: 2179.59px;
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 44px;
+line-height: 126%;
+/* or 55px */
+text-align: center;
+font-feature-settings: 'pnum' on, 'lnum' on;
+color: black;
+
+}
+
+.hero .hero_05 .header_04 .header-04-color{
+    color: #EC5863;
+}
+
+.hero .hero_05 .header_04 p{
+    position: absolute;
+    width: 600.9px;
+    height: 52px;
+    left: 276.05px;
+    top: 2248.59px;
+    
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 138.5%;
+    /* or 17px */
+    
+    text-align: center;
+    letter-spacing: 0.08em;
+    font-feature-settings: 'pnum' on, 'lnum' on;
+    margin-top: 24px;
+    color: #616161;
+    
+}
+
+.hero .hero_05 .icons {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.hero .hero_05 .first-icon{
+position: absolute;
+width: 65.75px;
+height: 65.75px;
+left: 56.47px;
+top: 2612.21px;
+}
+
+.hero .hero_05 .second-icon{
+position: absolute;
+width: 96.96px;
+height: 96.96px;
+left: 426.57px;
+top: 2403.16px;
+}
+
+.hero .hero_05 .third-icon{
+position: absolute;
+width: 127.47px;
+height: 127.47px;
+left: 643.24px;
+top: 2559.75px;
+}
+
+.hero .hero_05 .fourth-icon{
+position: absolute;
+width: 65.75px;
+height: 65.75px;
+left: 1006.93px;
+top: 2333.46px;
+}
+
+.hero .hero_05 .cards {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.hero .hero_05 .first-card .card-1{
+position: relative;
+left: 86.74px;
+top: 2346.76px;
+/* background: #FFFFFF;*/
+/* box-shadow: 0px 4px 18px rgba(88, 126, 236, 0.18); */
+border-radius: 8px;
+}
+
+.hero .hero_05 .first-card .first-card-content{
+    position: absolute;
+width: 242.53px;
+height: 203.21px;
+left: 104.56px;
+top: 2383.41px;
+margin: 26px 17px 36px 18px;
+}
+
+.hero .hero_05 .second-card .card-2{
+    position: absolute;
+/* width: 278.17px;
+height: 276.52px; */
+left: 436.91px;
+top: 2346.76px;
+
+/* background: #FFFFFF; */
+/* box-shadow: 0px 4px 18px rgba(88, 126, 236, 0.18); */
+border-radius: 8px;
+}
+
+.hero .hero_05 .second-card-content{
+position: absolute;
+left: 462.37px;
+top: 2383.64px;
+margin: 26px 25px 16px 20px;
+}
+
+.hero .hero_05 .third-card .card-3{
+position: absolute;
+left: 787.09px;
+top: 2346.76px;
+border-radius: 8px;
+}
+
+.hero .hero_05 .third-card-content{
+position: absolute;
+left: 812.54px;
+top: 2386.97px;
+margin: 20px 25px 40px 15px;
+}
+
+.hero .hero_05 .google-play-img{
+position: absolute;
+left: 390.19px;
+top: 2698.1px;
+padding-bottom: 46px;
+}
+
+.hero .hero_05 .app-store-img{
+position: absolute;
+left: 606.81px;
+top: 2693.7px;
+padding-bottom: 46px;
+}
